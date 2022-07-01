@@ -1,4 +1,5 @@
 # <a href = "https://nadiastyle-salon.netlify.app/" target="_blank">Nadiastyle Beauty Salon</a>
+Link to project = https://nadiastyle-salon.netlify.app/
 
 ## Table of Contents  
 - [About](##About)  
@@ -15,9 +16,13 @@
 
 ## About
 Nadiastyle Beauty Salon is a mobile responsive website that was built for a local business in South Florida, looking to enrich their web presence. This minimalistic and playful design showcases Nadia's passion for make-up and hairstyling, while making it easy for new and established clients to schedule appointments and send messages to the business owner.
+
+Link to project = https://nadiastyle-salon.netlify.app/
+
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/101753940/176965439-2d129f74-232b-458e-941f-82f49f979698.gif">
 </div>
+
 
 ## Technologies Used
 * HTML
