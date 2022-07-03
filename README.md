@@ -6,7 +6,6 @@
 - [Features](##Features)  
 - [Optimizations](##Optimizations)  
 - [Lessons Learned](##Lessons-Learned)  
-- [About](##About)  
 <a name="About"/>
 <a name="Technologies Used"/>
 <a name="Features"/>
