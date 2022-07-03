@@ -5,13 +5,13 @@
 - [Technologies Used](##Technologies-Used)  
 - [Features](##Features)  
 - [Optimizations](##Optimizations)  
-- [What Was Learned](##What-Was-Learned)  
+- [Lessons Learned](##Lessons-Learned)  
 - [About](##About)  
 <a name="About"/>
 <a name="Technologies Used"/>
 <a name="Features"/>
 <a name="Optimizations"/>
-<a name="What Was Learned"/>
+<a name="Lessons Learned"/>
 
 ## About
 Nadiastyle Beauty Salon is a mobile responsive website that was built for a local business in South Florida, looking to enrich their web presence. This minimalistic and playful design showcases Nadia's passion for make-up and hairstyling, while making it easy for new and established clients to schedule appointments and send messages to the business owner.
@@ -36,5 +36,5 @@ Clients can select a date on the built-in calendar to schedule their appoinment,
 * Creating a function that blocks dates on the calendar
 * Sending an automated message to the owner's phone each time a message is sent
 
-## What Was Learned
+## Lessons Learned
 This website was exciting to build and allowed me to challenge myself with implementation of new features. It allowed me to enhance my front-end skills through the use of HTML, CSS and Javascript along with my back-end skills with the use of node.js as JS's runtime environment and express. 
